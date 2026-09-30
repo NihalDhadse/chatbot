@@ -11,3 +11,4 @@ uvicorn
 requests
 gunicorn
 streamlit
+langchain-groq
